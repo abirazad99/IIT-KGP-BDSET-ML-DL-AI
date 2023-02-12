@@ -1,0 +1,23 @@
+Assignment 1: 
+
+Use LSTM to classify the text data. [Use train and test files as per requirement]
+
+
+Assignment 2: 
+
+Use GRU to classify the text data. [Use train and test files as per requirement]
+
+
+Assignment 3: 
+
+Use BiLSTM to classify the text data. [Use train and test files as per requirement]
+
+
+Assignment 4: 
+
+Use GloVe with BiLSTM to classify the text data. [Use train and test files as per requirement]
+
+
+Assignment 5: 
+
+Evaluate the models and show the test vs train plots. [ Accuracy and Loss ]
